@@ -1,5 +1,6 @@
 # Bypass-AV-DirectSyscalls
 Scripts to bypass Windows Defender antivirus protection using the Direct Syscalls technique with an injection of shellcode previously obfuscated with an XOR function.
+These have been used in a pentest training lab and are not intended for use outside this context.
 
 <p align="center">
     This project is translated from :
